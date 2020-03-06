@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/birthday_app/static/css/main.735cf587.chunk.css",
+    "main.js": "/birthday_app/static/js/main.48accd41.chunk.js",
+    "main.js.map": "/birthday_app/static/js/main.48accd41.chunk.js.map",
+    "runtime-main.js": "/birthday_app/static/js/runtime-main.f43d50f1.js",
+    "runtime-main.js.map": "/birthday_app/static/js/runtime-main.f43d50f1.js.map",
+    "static/js/2.8c22d069.chunk.js": "/birthday_app/static/js/2.8c22d069.chunk.js",
+    "static/js/2.8c22d069.chunk.js.map": "/birthday_app/static/js/2.8c22d069.chunk.js.map",
+    "index.html": "/birthday_app/index.html",
+    "precache-manifest.8f7347f52207b942a70da28de91228a4.js": "/birthday_app/precache-manifest.8f7347f52207b942a70da28de91228a4.js",
+    "service-worker.js": "/birthday_app/service-worker.js",
+    "static/css/main.735cf587.chunk.css.map": "/birthday_app/static/css/main.735cf587.chunk.css.map",
+    "static/js/2.8c22d069.chunk.js.LICENSE.txt": "/birthday_app/static/js/2.8c22d069.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/birthday_app/static/media/happy-birthday-decoration-cupcake-colorful-krem-den-rozhdeni.d92aff6b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f43d50f1.js",
+    "static/js/2.8c22d069.chunk.js",
+    "static/css/main.735cf587.chunk.css",
+    "static/js/main.48accd41.chunk.js"
+  ]
+}
