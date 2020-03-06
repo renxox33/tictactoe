@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/birthday_app/static/css/main.735cf587.chunk.css",
-    "main.js": "/birthday_app/static/js/main.48accd41.chunk.js",
-    "main.js.map": "/birthday_app/static/js/main.48accd41.chunk.js.map",
-    "runtime-main.js": "/birthday_app/static/js/runtime-main.f43d50f1.js",
-    "runtime-main.js.map": "/birthday_app/static/js/runtime-main.f43d50f1.js.map",
-    "static/js/2.8c22d069.chunk.js": "/birthday_app/static/js/2.8c22d069.chunk.js",
-    "static/js/2.8c22d069.chunk.js.map": "/birthday_app/static/js/2.8c22d069.chunk.js.map",
-    "index.html": "/birthday_app/index.html",
-    "precache-manifest.8f7347f52207b942a70da28de91228a4.js": "/birthday_app/precache-manifest.8f7347f52207b942a70da28de91228a4.js",
-    "service-worker.js": "/birthday_app/service-worker.js",
-    "static/css/main.735cf587.chunk.css.map": "/birthday_app/static/css/main.735cf587.chunk.css.map",
-    "static/js/2.8c22d069.chunk.js.LICENSE.txt": "/birthday_app/static/js/2.8c22d069.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/birthday_app/static/media/happy-birthday-decoration-cupcake-colorful-krem-den-rozhdeni.d92aff6b.jpg"
+    "main.css": "/tictactoe/static/css/main.114130b6.chunk.css",
+    "main.js": "/tictactoe/static/js/main.f3a19358.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.f3a19358.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.e11d0aff.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.e11d0aff.js.map",
+    "static/js/2.8c22d069.chunk.js": "/tictactoe/static/js/2.8c22d069.chunk.js",
+    "static/js/2.8c22d069.chunk.js.map": "/tictactoe/static/js/2.8c22d069.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.a7db11c9398fba0b6cc6db4072f376f6.js": "/tictactoe/precache-manifest.a7db11c9398fba0b6cc6db4072f376f6.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.114130b6.chunk.css.map": "/tictactoe/static/css/main.114130b6.chunk.css.map",
+    "static/js/2.8c22d069.chunk.js.LICENSE.txt": "/tictactoe/static/js/2.8c22d069.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tictactoe/static/media/happy-birthday-decoration-cupcake-colorful-krem-den-rozhdeni.d92aff6b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f43d50f1.js",
+    "static/js/runtime-main.e11d0aff.js",
     "static/js/2.8c22d069.chunk.js",
-    "static/css/main.735cf587.chunk.css",
-    "static/js/main.48accd41.chunk.js"
+    "static/css/main.114130b6.chunk.css",
+    "static/js/main.f3a19358.chunk.js"
   ]
 }
